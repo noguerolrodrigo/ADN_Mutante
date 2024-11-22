@@ -67,7 +67,7 @@ def main():
                 print(fila)  # Imprime cada fila
         elif opcion == "4":
             print("¡Hasta luego!")  # Muestra un mensaje de despedida
-            break  # Sale del bucle principal
+            break  # Sale del bucle principal y finaliza la ejecucion
         else:
             print("Opción inválida.")  # Si la opción no es válida, muestra un mensaje de error
 if __name__ == "__main__":  # Verifica si el script se está ejecutando como programa principal
