@@ -13,14 +13,14 @@ Cómo ejecutar el programa
 
 Funcionamiento del programa:
 
-1° Hay que ingresar 6 secuencias de 6 caracteres que representan la matriz del ADN en una lista.
-2° El programa pregunta que queremos hacer con esa matriz, donde nosotros escribiremos una de las opciones.
-3° Segun las opciones el codigo ejecutara distintos metodos: 
+1.  Hay que ingresar 6 secuencias de 6 caracteres que representan la matriz del ADN en una lista.
+2.  El programa pregunta que queremos hacer con esa matriz, donde nosotros escribiremos una de las opciones.
+3.  Segun las opciones el codigo ejecutara distintos metodos: 
 -detectar: Detectará si la matriz ingresada es mutante o no.
 -mutar: Pedirá una base nitrogenada, que se agrega a la matriz, haciendo que esta mute
 -sanar: Cambiará la matriz mutante para que quede con la base nitrogenada de forma equilibrada, para que no sea mutante
 -salir Se saldrá del programa
-4° El programa nos mostrará el resultado de la acción realizada.
+4.  El programa nos mostrará el resultado de la acción realizada.
 
 Ejemplo
 
